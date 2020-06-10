@@ -1,5 +1,7 @@
 # Regularization-techniques
 
+Used to reduce model complexity and prevent over-fitting
+
 Lasso performs L1 regularization and adds penalty equivalent to absolute value of magnitude of coefficient 
 
 Ridge performs L2 regularization and adds penalty equivalent to square value of magnitude of coefficient 
