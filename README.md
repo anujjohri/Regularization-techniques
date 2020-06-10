@@ -1,8 +1,8 @@
 # Regularization-techniques
 
-Lasso performs L1 regularization
+Lasso performs L1 regularization and adds penalty equivalent to absolute value of magnitude of coefficient 
 
-Ridge performs L1 regularization
+Ridge performs L2 regularization and adds penalty equivalent to square value of magnitude of coefficient 
 
 ElassticNet is combination on both.
 
